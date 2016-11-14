@@ -1,0 +1,22 @@
+Host bandit.labs.overthewire.org
+##HostName banditLabs
+User bandit14
+## pw for bandit1 is boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+## pw bandit2 is CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+## pw for bandit3 is UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+## pw for bandit4 is pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+## used find . -type f | xargs file | grep text to identify human readble ASCII text file
+## pw for bandit 5 is koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+## pw for bandt6 is DXjZPULLxYr17uwoI01bNLQbtFemEgo7, used find . -type f -size 1033c
+## find / -user bandit7 -group bandit6 -size 33c -type f 2>/dev/null
+## 2>/dev/null only returns valid results
+## pw for bandit 7 is HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+## pw for bandt8 is cvX2JJa4CFALtqS87jk27qwqGhBM9plV (used grep, someone else used grep and a pipe which I will use)
+## careful using uniq - yielded several different results
+##pw for bandit 9 is UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+## pw for bandit10 is truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+## base64 data.txt --decode pw is bandit 11 IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+## pw for bandit12 is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+## pw for bandit13 is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+## bandit 14 pw i 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
